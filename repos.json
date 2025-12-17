@@ -1,8 +1,10 @@
 {
-  "featuredOrder": ["matthewsawatzky/portfolio-site", "matthewsawatzky/burrowhost.com"],
+  "featuredOrder": ["matthewsawatzky/burrowhost.com"],
   "repos": [
-    "matthewsawatzky/portfolio-site",
-    { "repo": "matthewsawatzky/burrowhost.com", "tag": "Notable" }
+    "matthewsawatzky/burrowhost.com",
+    { "repo": "matthewsawatzky/burrowhost.com", "tag": "Notable" },
+    { "repo": "matthewsawatzky/HowTo-IT", "tag": "Cool" }
+      
   ]
 }
 
