@@ -11,17 +11,14 @@
       "contentPath": "posts/welcome.md"
     },
     {
-      "slug": "small-hosting-stack",
-      "type": "link",
-      "title": "A small hosting stack",
+      "slug": "Whats Up?",
+      "type": "post",
+      "title": "This Here Is Mine",
       "date": "2024-12-10",
-      "summary": "Notes on a lean hosting setup.",
-      "notes": "- Why I prefer small VPSs\n- Backups and watchdogs",
-      "url": "https://example.com/hosting",
-      "thumbnail": "https://example.com/thumb.jpg",
-      "embedHtml": "<iframe src=\"https://example.com/embed\" width=\"100%\" height=\"300\" loading=\"lazy\"></iframe>",
-      "tags": ["ops", "infra"],
+      "summary": "I Don't Know",
       "readingTime": "2 min"
+      "tags": ["this", "that"],
+      "contentPath": "posts/whatsup.md"
     }
   ]
 }
