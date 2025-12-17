@@ -1,7 +1,7 @@
 {
   "items": [
     "posts/welcome.md",
-    "posts/another-post.md",
+    "posts/whatsup.md",
     "https://raw.githubusercontent.com/you/data/main/posts/link-note.md"
   ]
 }
