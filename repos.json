@@ -1,0 +1,34 @@
+{
+  "featuredOrder": [
+    "matthewsawatzky/portfolio-site",
+    "matthewsawatzky/burrowhost.com"
+  ],
+  "repos": [
+    {
+      "fullName": "matthewsawatzky/portfolio-site",
+      "title": "Portfolio Site",
+      "description": "Static site with repo modal viewer.",
+      "language": "HTML",
+      "stars": 12,
+      "topics": ["static", "vanilla-js"],
+      "updatedAt": "2024-12-01T00:00:00Z",
+      "homepage": "https://matthewsawatzky.github.io/portfolio-site",
+      "tag": "Featured",
+      "readmePath": "README.md",
+      "defaultBranch": "main"
+    },
+    {
+      "fullName": "matthewsawatzky/burrowhost.com",
+      "title": "Burrow Host",
+      "description": "Lightweight hosting helper.",
+      "language": "JavaScript",
+      "stars": 8,
+      "topics": ["hosting", "automation"],
+      "updatedAt": "2024-11-20T00:00:00Z",
+      "homepage": "",
+      "tag": "Notable",
+      "readmePath": "README.md",
+      "defaultBranch": "main"
+    }
+  ]
+}
