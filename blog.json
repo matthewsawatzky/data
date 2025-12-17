@@ -1,24 +1,7 @@
 {
   "items": [
-    {
-      "slug": "welcome",
-      "type": "post",
-      "title": "Welcome",
-      "date": "2024-12-15",
-      "summary": "How this site loads data-driven content.",
-      "readingTime": "3 min",
-      "tags": ["meta", "build"],
-      "contentPath": "posts/welcome.md"
-    },
-    {
-      "slug": "Whats Up?",
-      "type": "post",
-      "title": "This Here Is Mine",
-      "date": "2024-12-10",
-      "summary": "I Don't Know",
-      "readingTime": "2 min"
-      "tags": ["this", "that"],
-      "contentPath": "posts/whatsup.md"
-    }
+    "posts/welcome.md",
+    "posts/another-post.md",
+    "https://raw.githubusercontent.com/you/data/main/posts/link-note.md"
   ]
 }
