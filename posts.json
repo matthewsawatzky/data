@@ -1,0 +1,27 @@
+{
+  "items": [
+    {
+      "slug": "welcome",
+      "type": "post",
+      "title": "Welcome",
+      "date": "2024-12-15",
+      "summary": "How this site loads data-driven content.",
+      "readingTime": "3 min",
+      "tags": ["meta", "build"],
+      "contentPath": "posts/welcome.md"
+    },
+    {
+      "slug": "small-hosting-stack",
+      "type": "link",
+      "title": "A small hosting stack",
+      "date": "2024-12-10",
+      "summary": "Notes on a lean hosting setup.",
+      "notes": "- Why I prefer small VPSs\n- Backups and watchdogs",
+      "url": "https://example.com/hosting",
+      "thumbnail": "https://example.com/thumb.jpg",
+      "embedHtml": "<iframe src=\"https://example.com/embed\" width=\"100%\" height=\"300\" loading=\"lazy\"></iframe>",
+      "tags": ["ops", "infra"],
+      "readingTime": "2 min"
+    }
+  ]
+}
